@@ -2,6 +2,7 @@
 ![sample image](ofxMonitorInfo.png)
 
 ofxMonitorInfo is a simple addon to get monitors information for openFrameworks.
+
 Mac/Win compatible.
 
 By Yasuhiro Hoshino
