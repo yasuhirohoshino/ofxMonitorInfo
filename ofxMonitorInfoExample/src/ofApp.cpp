@@ -3,7 +3,7 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
     ofBackground(17);
-    monitorInfo.getDisplaysInfo();
+    monitorInfo.getMonitorsInfo();
     
     scale = 0.15;
     
